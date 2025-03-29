@@ -15,6 +15,7 @@ body{
 header{
     color:white;
     background-image: linear-gradient(rgb(69, 189, 69), rgb(12, 97, 12));
+    padding-bottom: 2%;
 }
 header>h1{
     margin-top:0;
@@ -44,7 +45,7 @@ main{
     margin:auto;
     width:75%;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 0 0 15px 15px ;
 }
 main>h1{
     margin-top: 0px;
