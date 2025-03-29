@@ -4,6 +4,10 @@
     font-weight: normal;
     font-style: normal;
 }
+html{
+    scroll-behavior:smooth;
+    scroll-padding-top: 1.25rem;
+}
 body{
     background-color: rgb(122, 197, 122);
     margin:0;
@@ -26,7 +30,7 @@ header>h1,h3{
     text-align: center;
 }
 nav{
-    padding-top:45px;
+    margin-top:6%;
 }
 nav>a{
     color: white;
