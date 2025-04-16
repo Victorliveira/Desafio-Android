@@ -5,7 +5,6 @@
     font-style: normal;
 }
 html{
-    scroll-behavior:smooth;
     scroll-padding-top: 1.25rem;
 }
 body{
@@ -37,6 +36,8 @@ nav>a{
     text-decoration: none;
     padding: 7px;
     margin:3px;
+    transition-duration: 3s, 1s;
+    
 }
 nav>a:hover , .home:hover{
     background-color: #27db27;
